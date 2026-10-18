@@ -1,0 +1,4 @@
+employee_id,name,role,base_salary_usd,bonus_cents,access_level
+EXEC-001,Victoria Sterling,Chief Executive Officer,450000,15000000,RESTRICTED
+EXEC-002,Marcus Vance,Chief Technology Officer,380000,10000000,RESTRICTED
+EXEC-003,Sarah Jenkins,Chief Financial Officer,390000,12000000,RESTRICTED

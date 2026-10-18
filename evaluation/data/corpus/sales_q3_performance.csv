@@ -1,0 +1,7 @@
+rep_name,region,quota_usd,achieved_usd,deals_closed,customer_tier
+Alice Chen,North America,1000000,1250000,15,Enterprise
+Bob Martinez,EMEA,800000,720000,8,Mid-Market
+Carol Danvers,APAC,600000,690000,11,Enterprise
+David Kim,North America,900000,945000,14,Mid-Market
+Elena Rostova,EMEA,750000,810000,9,Enterprise
+Frank Zhao,APAC,500000,480000,6,Mid-Market
